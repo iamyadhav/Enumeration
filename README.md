@@ -1,6 +1,6 @@
 # Explore Google hacking and enumeration 
-### NAME:YADHAV G 
-### REGISTER NUMBER:21222323247
+### NAME:YADHAV G P
+### REGISTER NUMBER:212223230247
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
